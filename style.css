@@ -1,0 +1,43 @@
+
+  .mama {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #383737;
+}
+.form-container {
+    background-color: #575757;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 400px;
+    width: 400px;
+}
+.form-group {
+    margin-bottom: 15px;
+    width: 200px;
+    
+}
+.form-group label {
+    display:flex;
+    
+    margin-bottom: 5px;
+}
+
+.form-group button {
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+.form-group button:hover {
+    background-color: #494949;
+}
