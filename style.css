@@ -1,11 +1,19 @@
 
+
+
   .mama {
+
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
+    background-color: #ec1f1f;
+}
+.form-container {
+    background-color: #b42929;
+
     background-color: #383737;
 }
 .form-container {
