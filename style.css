@@ -1,5 +1,8 @@
 
-.mama {
+
+
+  .mama {
+
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -10,6 +13,11 @@
 }
 .form-container {
     background-color: #b42929;
+
+    background-color: #383737;
+}
+.form-container {
+    background-color: #575757;
     padding: 20px;
     justify-content: center;
     align-items: center;
