@@ -20,11 +20,10 @@
 }
 .form-group {
     margin-bottom: 15px;
-    width: 200px;
+    
     
 }
 .form-group label {
-    display:flex;
     
     margin-bottom: 5px;
 }
